@@ -11,7 +11,7 @@ Currently webfishing's v1.08 of offline/solo play option still needs internet to
 *please message me on twitter or discord if you find a mod that should be on this list*
 
 # WHAT YOU NEED TO INSTALL:
-1: A legal version of the game (This patch uses the same check to see if you legally own the game that happens when you join servers, to also make sure you aren't able to load into an offline game if you dont own the game)
+1: A legal version of the game
 - Link: https://store.steampowered.com/app/3146520/WEBFISHING/
 
 2: GDRE Tool (Used to decompile the game)
