@@ -3,6 +3,8 @@
 
 Currently webfishing's v1.08 of offline/solo play option still needs internet to start up. So I made a hard-patch that adds in a new button on the server screen to boot in a true offline mode, while not stripping away the online feature at all.
 
+![](https://github.com/FroggosOrbit/webfishing-true-offline/blob/main/TRUE_Offline_Button_Gif.gif)
+
 **This is a hard patch, and not a mod. A mod version will be made soon, and ill update this page with a link to that mod when its done**
 
 # Current known mods that this patch doesn't work with
