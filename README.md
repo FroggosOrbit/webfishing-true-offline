@@ -48,7 +48,7 @@ Currently webfishing's v1.08 of offline/solo play option still needs internet to
 - EXTRA: Steam deck users can add the "linux-352-editor" to the gaming mode in steam to be able to use better custom controls. 
 
 # IMPORTANT INFO:
-- **The patched version of the game will still be able to use your normal save file, so you get a few items in offline mode, then boot up the non patched version in steam, you will still have those items**
+- **The patched version of the game will still be able to use your normal save file, so if you do something like get a few items in offline mode, then boot up the non patched version in steam, you will still have those items**
 
 - **This will not affect your steam download of the game in any way. This guide makes a copy of the game with the patch that runs through the godot program, instead of steam.**
 - **The patched version of the game can play online without you having to do anything special, with it even connecting to your steam like the game normally does.**
