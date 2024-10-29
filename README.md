@@ -7,10 +7,7 @@ Currently webfishing's v1.08 of offline/solo play option still needs internet to
 
 **This is a hard patch, and not a mod. A mod version will be made soon, and ill update this page with a link to that mod when its done**
 
-# Current known mods that this patch doesn't work with
-- none
-  
-*please message me on twitter or discord @FroggosOrbit if you find a mod that should be on this list*
+*please message me on twitter or discord @FroggosOrbit if you find any issues*
 
 # WHAT YOU NEED TO BEFORE HAND:
 1: A legal version of the game
