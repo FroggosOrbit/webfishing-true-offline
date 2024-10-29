@@ -10,7 +10,7 @@ Currently webfishing's v1.08 of offline/solo play option still needs internet to
   
 *please message me on twitter or discord if you find a mod that should be on this list*
 
-# WHAT YOU NEED TO INSTALL:
+# WHAT YOU NEED TO BEFORE HAND:
 1: A legal version of the game
 - Link: https://store.steampowered.com/app/3146520/WEBFISHING/
 
