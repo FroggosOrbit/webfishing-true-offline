@@ -21,7 +21,7 @@ Currently webfishing's v1.08 of offline/solo play option still needs internet to
 - Link: https://github.com/GodotSteam/GodotSteam/releases/tag/v3.21
 
 
-# HOW TO INSTALL (Same for windows and steam deck outside of step 7):
+# HOW TO INSTALL:
 *steam deck users must be in desktop mode for this*
 
 1: Decompile the game using GDRE Tool
