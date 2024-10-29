@@ -1,4 +1,4 @@
-# Webfishing True Offline/play
+# Webfishing True Offline Patch
 *For webfishingv1.08*
 
 Currently webfishing's v1.08 of offline/solo play option still needs internet to start up. So I made a hard-patch that adds in a new button on the server screen to boot in a true offline mode, while not stripping away the online feature at all.
