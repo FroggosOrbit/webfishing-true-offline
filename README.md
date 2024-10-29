@@ -5,7 +5,7 @@ Currently webfishing's v1.08 of offline/solo play option still needs internet to
 
 ![](https://github.com/FroggosOrbit/webfishing-true-offline/blob/main/TRUE_Offline_Button_Gif.gif)
 
-**This is a hard patch, and not a mod. A mod version will be made soon, and ill update this page with a link to that mod when its done**
+**This is a hard patch, and not a mod. A mod version will be made soon, and ill update this page with a link to that mod when its done. That being said, you should be able to use almost any mod with this patch.**
 
 *please message me on twitter or discord @FroggosOrbit if you find any issues*
 
