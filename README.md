@@ -27,9 +27,9 @@ Currently webfishing's v1.08 of offline/solo play option still needs internet to
 
 *Guide on how to decompile the game can be found as step one here: https://github.com/BlueberryWolf/WEBFISHINGModdingGuide*
 
-2: Download the "Scenes.zip" from the release page of this github page: https://github.com/FroggosOrbit/webfishing-true-offline/releases/tag/webfishing
+2: Download the "True Offline.zip" from the release page of this github page: https://github.com/FroggosOrbit/webfishing-true-offline/releases/tag/webfishingoffline
 
-3: Extract "Scenes.zip"
+3: Extract "True Offline.zip" , and find the "Scences" folder
 
 4: Open the folder with the decompiled game, and drag the "Scenes" folder into the folder with the decompiled game.
 
